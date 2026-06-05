@@ -16,7 +16,7 @@ A basic personal web page created using HTML.
 
 ## Project Preview
 
-![Project Screenshot]()
+![Project Screenshot](_C__Users_slava_OneDrive_Desktop_profile.html.png)
 
 ## Author
 Lavanya Saravanakumar
