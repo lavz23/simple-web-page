@@ -1,10 +1,22 @@
-# simple-web-page
-My first simple webpage using HTML
+# Simple Web Page
+
+A basic personal web page created using HTML.
 
 ## Features
- clean design
- basic HTML structure
- beginner-friendly project
+- Welcome section
+- About Me section
+- Images section
+- Favorites list
+- Daily routine table
+- Contact information
+- External link to YouTube
 
-## Technology used
-  HTTML
+## Technologies Used
+- HTML
+
+## Project Preview
+
+![Project Screenshot]()
+
+## Author
+Lavanya Saravanakumar
